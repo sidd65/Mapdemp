@@ -121,8 +121,8 @@ class App extends Component {
             type="line"
             paint={{
               "line-color": 'red',
-                "line-width": 4,
-                "line-blur":2
+                "line-width": 10,
+                "line-blur":4
             }}
             />
           </Source>
